@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DevMonzer/natours_full_stack/issues"
   },
-  "homepage": "https://github.com/DevMonzer/natours_full_stack#readme"
+  "homepage": "https://github.com/DevMonzer/natours_full_stack#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
