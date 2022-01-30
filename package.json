@@ -1,0 +1,19 @@
+{
+  "name": "natours-app",
+  "version": "1.0.0",
+  "description": "Online platform for renting tourse on nature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevMonzer/natours_full_stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevMonzer/natours_full_stack/issues"
+  },
+  "homepage": "https://github.com/DevMonzer/natours_full_stack#readme"
+}
