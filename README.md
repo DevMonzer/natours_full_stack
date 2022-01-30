@@ -1,2 +1,2 @@
 # natours_full_stack
-Online platform for renting tourse on nature
+Online platform for renting tours on nature
