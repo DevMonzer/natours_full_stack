@@ -1,2 +1,3 @@
-# natours_full_stack
-Online platform for renting tours on nature
+# Natours Application
+
+Built using modern technologies: node.js, express, mongoDB, mongoose and friends 😁
